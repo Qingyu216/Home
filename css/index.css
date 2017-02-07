@@ -1,0 +1,189 @@
+#module303 {
+    border: none;
+}
+
+#module303 {
+    padding: 0px;
+}
+
+#module303 .formMiddle303 {
+    border: none;
+}
+
+#module303 .formMiddle303 {
+    padding: 0px;
+}
+
+#module303 .formBannerTitle303 {
+    border: none;
+}
+
+#module303 .formBannerTitle303 {
+    padding: 0px;
+}
+
+#module303 {
+    background: none;
+}
+
+#module303 .formMiddle303 {
+    background: none;
+}
+
+#module303 .g_background {
+    background: none;
+}
+
+#module303 .formMiddle303 .formMiddleCenter303 {
+    background: none;
+}
+
+#module303 .formMiddleContent303 {
+    background: none;
+}
+
+.open .navItem:nth-child(2) {
+    transition-delay: 160ms;
+}
+
+.open .navItem:nth-child(4) {
+    transition-delay: 240ms;
+}
+
+#navbar_104 .icon-navItemIcon:before {
+    content: '';
+    content: '';
+}
+
+#navbar_104 .icon-navItemIcon {
+    background-image: none;
+}
+
+.open .navItem:nth-child(6) {
+    transition-delay: 320ms;
+}
+
+#navbar_105 .icon-navItemIcon:before {
+    content: '';
+    content: '';
+}
+
+#navbar_105 .icon-navItemIcon {
+    background-image: none;
+}
+
+.open .navItem:nth-child(8) {
+    transition-delay: 400ms;
+}
+
+.open .navItem:nth-child(10) {
+    transition-delay: 480ms;
+}
+
+.open .navItem:nth-child(12) {
+    transition-delay: 560ms;
+}
+
+#module303 {
+    overflow: hidden;
+}
+
+#cubeNavigation303_cubeLink1 .icon-cube:before {
+    content: '';
+}
+
+#cubeNavigation303_cubeLink2 .icon-cube:before {
+    content: '';
+}
+
+#cubeNavigation303_cubeLink3 .icon-cube:before {
+    content: '';
+}
+
+#cubeNavigation303_cubeLink4 .cubeLink_ico {
+    background-image: url(http://mo.faisys.com/image/colIcon/15.png);
+    background-color: transparent;
+    ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#cubeNavigation303_cubeLink4 .icon-cube:before {
+    content: none;
+}
+
+#cubeNavigation303_cubeLink5 .icon-cube:before {
+    content: '';
+}
+
+#cubeNavigation303_cubeLink6 .icon-cube:before {
+    content: '';
+}
+
+
+/*第三部分*/
+
+.open .navItem:nth-child(2) {
+    transition-delay: 160ms;
+}
+
+#svebar_1 .icon-serItemIcon:before {
+    content: '\e62c';
+    content: '\e62c';
+}
+
+#svebar_1 .icon-serItemIcon {
+    background-image: none;
+}
+
+.open .navItem:nth-child(4) {
+    transition-delay: 240ms;
+}
+
+#svebar_3 .icon-serItemIcon:before {
+    content: '\e67c';
+    content: '\e67c';
+}
+
+#svebar_3 .icon-serItemIcon {
+    background-image: none;
+}
+
+.open .navItem:nth-child(6) {
+    transition-delay: 320ms;
+}
+
+#svebar_4 .icon-serItemIcon:before {
+    content: '\e6b2';
+    content: '\e6b2';
+}
+
+#svebar_4 .icon-serItemIcon {
+    background-image: none;
+}
+
+.open .navItem:nth-child(8) {
+    transition-delay: 400ms;
+}
+
+#svebar_5 .icon-serItemIcon:before {
+    content: '';
+    content: '';
+}
+
+#svebar_5 .icon-serItemIcon {
+    background-image: none;
+}
+
+.open .navItem:nth-child(10) {
+    transition-delay: 480ms;
+}
+
+#svebar_2 .icon-serItemIcon:before {
+    content: '\e6a0';
+    content: '\e6a0';
+}
+
+#svebar_2 .icon-serItemIcon {
+    background-image: none;
+}
